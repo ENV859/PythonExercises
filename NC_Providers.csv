@@ -1,0 +1,530 @@
+PWSID,Water System,Ownership
+00-00-007,Z Mayberry (test),Municipality
+01-00-010,Burnsville,Municipality
+01-02-010,Taylorsville,Municipality
+01-02-015,Energy United Water,Non-Profit
+01-02-020,Alexander County WD,County
+01-03-010,Sparta,Municipality
+01-05-010,West Jefferson,Municipality
+01-05-015,Jefferson,Municipality
+01-06-010,Crossnore,Municipality
+01-06-015,Banner Elk,Municipality
+01-06-020,Newland,Municipality
+01-06-025,Elk Park,Municipality
+01-06-104,Linville Land Harbor,Non-Profit
+01-06-107,Sugar Mountain,Business
+01-11-010,Asheville,Municipality
+01-11-015,Woodfin Sanitary Water & Sewer District,District
+01-11-020,Black Mountain,Municipality
+01-11-025,Weaverville,Municipality
+01-11-030,Biltmore Forest,Municipality
+01-11-484,Montreat,Municipality
+01-12-010,Valdese,Municipality
+01-12-015,Morganton,Municipality
+01-12-045,Drexel,Municipality
+01-12-055,Rutherford College,Municipality
+01-12-060,Icard Township WC,Non-Profit
+01-12-065,Burke County,County
+01-12-103,Brentwood-Highway 64,Non-Profit
+01-12-104,Brentwood-Jamestown Road,Non-Profit
+01-13-010,Concord,Municipality
+01-13-020,Mt. Pleasant,Municipality
+01-13-025,Harrisburg,Municipality
+01-13-999,Water and Sewer Authority of Cabarrus,Authority
+01-14-010,Lenoir,Municipality
+01-14-025,Baton WC,Non-Profit
+01-14-030,Granite Falls,Municipality
+01-14-035,Rhodhiss,Municipality
+01-14-040,Sawmills,Municipality
+01-14-045,Caldwell Co (West),County
+01-14-047,Caldwell Co (Southeast),County
+01-14-048,Caldwell Co (North),County
+01-18-010,"Hickory, City of",Municipality
+01-18-015,Newton,Municipality
+01-18-020,Conover,Municipality
+01-18-025,Longview,Municipality
+01-18-030,Maiden,Municipality
+01-18-035,Claremont,Municipality
+01-18-040,Hickory Catawba System,Municipality
+01-18-151,Shamrock Park Subdivision - City of Claremont,Municipality
+01-20-010,Murphy,Municipality
+01-20-020,Andrews,Municipality
+01-22-010,Clay Co WSD,County
+01-22-126,Hiawassee - North Carolina System,Municipality
+01-23-010,Shelby,Municipality
+01-23-020,Kings Mountain,Municipality
+01-23-025,Boiling Springs,Municipality
+01-23-030,Grover,Municipality
+01-23-035,Fallston Water System,Municipality
+01-23-045,Lawndale,Municipality
+01-23-055,Cleveland County Water,District
+01-36-010,Two Rivers Utilities/Gastonia,Municipality
+01-36-015,Belmont,Municipality
+01-36-020,Mount Holly,Municipality
+01-36-025,Bessemer City,Municipality
+01-36-030,Cherryville,Municipality
+01-36-034,Ranlo,Municipality
+01-36-035,Stanley,Municipality
+01-36-045,McAdenville,Municipality
+01-36-060,Lowell,Municipality
+01-36-065,Dallas,Municipality
+01-36-075,High Shoals,Municipality
+01-38-010,Robbinsville,Municipality
+01-38-101,Fontana Dam,Municipality
+01-38-105,Lake Santeetlah,Municipality
+01-44-010,Waynesville,Municipality
+01-44-015,Canton,Municipality
+01-44-025,Clyde,Municipality
+01-44-035,Junaluska SD,District
+01-44-040,Maggie Valley SD,District
+01-45-010,Hendersonville,Municipality
+01-45-030,Laurel Park,Municipality
+01-49-010,Statesville,Municipality
+01-49-015,Mooresville,Municipality
+01-49-025,Iredell Water Corporation,Non-Profit
+01-49-030,Troutman,Municipality
+01-49-158,West Iredell Water Company,Non-Profit
+01-49-185,The Harbour / The Point,Business
+01-50-035,Tuckaseigee W&S Authority,Authority
+01-50-113,Fairfield Sapphire,Business
+01-50-116,Western Carolina University,State
+01-55-010,Lincolnton,Municipality
+01-55-035,Lincoln County,County
+01-56-010,Marion,Municipality
+01-56-025,"Old Fort, Town of",Municipality
+01-57-010,Franklin,Municipality
+01-57-015,Highlands,Municipality
+01-58-010,Mars Hill,Municipality
+01-58-015,Marshall,Municipality
+01-58-020,Hot Springs,Municipality
+01-60-010,Charlotte Water,Municipality
+01-60-156,Lamplighter South/Danby,Business
+01-60-264,Bradfield Farms S/D,Business
+01-61-010,Spruce Pine,Municipality
+01-75-010,Tryon,Municipality
+01-75-015,Columbus,Municipality
+01-75-020,Saluda,Municipality
+01-80-010,Salisbury,Municipality
+01-80-038,Landis,Municipality
+01-80-040,China Grove,Municipality
+01-80-050,Cleveland,Municipality
+01-80-055,Faith,Municipality
+01-80-060,East Spencer,Municipality
+01-80-065,Kannapolis,Municipality
+01-81-010,Forest City,Municipality
+01-81-020,Lake Lure,Municipality
+01-81-035,Broad River Water Authority,Authority
+01-81-038,Ellenboro,Municipality
+01-81-040,Bostic,Municipality
+01-81-050,Concord Community WS,Non-Profit
+01-81-107,Chimney Rock Water Works,Municipality
+01-84-010,Albemarle,Municipality
+01-84-015,Norwood,Municipality
+01-84-020,Oakboro,Municipality
+01-84-025,Pfeiffer-North Stanly WA,Non-Profit
+01-84-035,Stanly Co,County
+01-87-010,"Bryson City, Town of",Municipality
+01-87-020,Whittier SD,District
+01-88-010,Brevard,Municipality
+01-88-104,Connestee Falls,Business
+01-88-115,Rosman,Municipality
+01-90-015,Marshville,Municipality
+01-90-030,Wingate,Municipality
+01-95-010,Boone,Municipality
+01-95-020,Blowing Rock,Municipality
+01-95-101,Appalachian State University,State
+01-95-104,Beech Mountain,Municipality
+01-95-118,Seven Devils,Municipality
+01-97-010,North Wilkesboro,Municipality
+01-97-015,Mulberry Fairplains WA,Non-Profit
+01-97-020,West Wilkes Water Association,Non-Profit
+01-97-025,Wilkesboro,Municipality
+01-97-030,Blue Ridge WA,Non-Profit
+01-97-035,Broadway Water Association. Inc.,Non-Profit
+01-97-040,Moravian Falls Water Works,Non-Profit
+01-97-050,Ronda,Municipality
+02-01-010,Burlington,Municipality
+02-01-015,Graham,Municipality
+02-01-018,Mebane,Municipality
+02-01-020,Haw River,Municipality
+02-01-025,Elon,Municipality
+02-01-030,Green Level,Municipality
+02-01-035,Alamance,Municipality
+02-01-123,Ossipee SD,Municipality
+02-17-010,Yanceyville,Municipality
+02-17-015,Milton,Municipality
+02-29-010,Lexington,Municipality
+02-29-020,Thomasville,Municipality
+02-29-025,Davidson Water,Non-Profit
+02-29-030,Denton,Municipality
+02-29-035,Handy Sanitary District,District
+02-30-010,Mocksville,Municipality
+02-30-015,Davie Co,County
+02-34-010,Winston-Salem,Municipality
+02-35-010,"Franklinton, Town of",County
+02-35-015,Louisburg,Municipality
+02-35-025,Bunn,Municipality
+02-35-030,Franklin County Public Utilities,County
+02-35-108,Lake Royale SD,Business
+02-39-018,Stovall,Municipality
+02-39-107,South Granville Water and Sewer Authority,Authority
+02-41-010,Greensboro,Municipality
+02-41-020,High Point,Municipality
+02-41-025,Gibsonville,Municipality
+02-41-030,Jamestown,Municipality
+02-41-035,Stokesdale,Municipality
+02-73-010,Roxboro,Municipality
+02-76-010,Asheboro,Municipality
+02-76-015,Randleman,Municipality
+02-76-020,Ramseur,Municipality
+02-76-025,Liberty,Municipality
+02-76-030,Archdale,Municipality
+02-76-035,Franklinville,Municipality
+02-76-040,Seagrove-Ulah Metro Water District,District
+02-79-010,Eden,Municipality
+02-79-020,Reidsville,Municipality
+02-79-025,Mayodan,Municipality
+02-79-030,Madison,Municipality
+02-79-035,Stoneville,Municipality
+02-79-040,Dan River Water Inc.,Non-Profit
+02-79-050,Rockingham Co,County
+02-85-015,Walnut Cove,Municipality
+02-85-020,Danbury,Municipality
+02-85-025,Stokes County WASA,Authority
+02-86-010,Mount Airy,Municipality
+02-86-020,Elkin,Municipality
+02-86-025,"Pilot Mountain, Town of",Municipality
+02-86-030,Dobson,Municipality
+02-91-010,Kerr Lake Regional Water,Municipality
+02-93-010,Warrenton,Municipality
+02-93-015,Warren County,County
+02-99-010,Jonesville,Municipality
+02-99-015,Yadkinville,Municipality
+02-99-020,Boonville,Municipality
+02-99-025,East Bend,Municipality
+03-04-010,Anson Co,County
+03-04-012,Ansonville,Municipality
+03-04-020,Wadesboro,Municipality
+03-04-025,Lilesville,Municipality
+03-04-030,Polkton,Municipality
+03-04-034,Peachland,Municipality
+03-04-040,Morven,Municipality
+03-09-015,Bladenboro,Municipality
+03-09-020,Clarkton,Municipality
+03-09-025,Dublin,Municipality
+03-09-030,White Lake,Municipality
+03-09-050,East Arcadia,Municipality
+03-09-055,Bladen Co WD (West Bladen),County
+03-09-060,Bladen Co WD (East Bladen),County
+03-19-010,Siler City,Municipality
+03-19-025,Goldston Gulf SD,District
+03-19-050,Chatham County Southwest Water System,County
+03-19-126,Chatham County North Water System,County
+03-26-010,Fayetteville,Municipality
+03-26-020,Spring Lake,Municipality
+03-26-030,Stedman,Municipality
+03-26-035,Falcon,Municipality
+03-26-040,Wade,Municipality
+03-26-045,Linden,Municipality
+03-26-050,Godwin,Municipality
+03-26-127,Brookwood Community,Business
+03-26-332,Cliffdale West,Other
+03-32-010,Durham,Municipality
+03-43-010,Dunn,Municipality
+03-43-015,Angier,Municipality
+03-43-020,Coats,Municipality
+03-43-025,Lillington,Municipality
+03-43-045,Harnett County Regional Water System,County
+03-47-010,Raeford,Municipality
+03-47-025,Hoke County Regional Water System,County
+03-51-010,Smithfield,Municipality
+03-51-015,"Selma, Town of",Municipality
+03-51-020,Clayton,Municipality
+03-51-025,Benson,Municipality
+03-51-030,Kenly,Municipality
+03-51-035,Four Oaks,Municipality
+03-51-040,Pine Level,Municipality
+03-51-045,Micro,Municipality
+03-51-050,Princeton,Municipality
+03-51-070,Johnston County,County
+03-51-195,Flowers Plantation,Business
+03-53-010,Sanford,Municipality
+03-53-015,Broadway,Municipality
+03-53-101,Carolina Trace WS,Business
+03-62-010,Montgomery Co,County
+03-62-015,Mount Gilead,Municipality
+03-62-020,Troy,Municipality
+03-62-025,Star,Municipality
+03-62-030,Candor,Municipality
+03-62-035,Biscoe,Municipality
+03-63-010,Southern Pines,Municipality
+03-63-015,Robbins Water System,Municipality
+03-63-020,Aberdeen,Municipality
+03-63-025,Carthage,Municipality
+03-63-030,Pinebluff,Municipality
+03-63-035,Taylortown,Municipality
+03-63-040,Cameron,Municipality
+03-63-045,Moore County Public Utilities-Vass,County
+03-63-103,Moore County Public Utilities-Hyland Hills,County
+03-63-108,Moore County Public Utilities-Pinehurst,County
+03-63-112,Whispering Pines,Business
+03-63-117,Moore County Public Utilities-Seven Lakes,County
+03-63-152,Moore County Public Utilities-The Carolina,County
+03-63-153,Moore County Public Utilities-Addor,County
+03-63-155,Moore County Public Utilities-Robbins,County
+03-63-479,Foxfire Village,Municipality
+03-68-010,Orange Water and Sewer Authority,Authority
+03-68-015,Hillsborough,Municipality
+03-68-020,Orange-Alamance,Non-Profit
+03-77-010,Hamlet Water System,Municipality
+03-77-015,Rockingham,Municipality
+03-77-020,Ellerbe,Municipality
+03-77-109,Richmond County,County
+03-78-010,Lumberton,Municipality
+03-78-015,Red Springs,Municipality
+03-78-020,Pembroke,Municipality
+03-78-025,Fairmont,Municipality
+03-78-030,St Pauls,Municipality
+03-78-035,Maxton,Municipality
+03-78-040,Rowland,Municipality
+03-78-045,Parkton,Municipality
+03-78-055,Robeson Co,County
+03-82-010,Clinton,Municipality
+03-82-015,Roseboro,Municipality
+03-82-020,Garland,Municipality
+03-82-025,Salemburg,Municipality
+03-82-035,Newton Grove,Municipality
+03-82-040,Turkey,Municipality
+03-82-045,Autryville,Municipality
+03-82-050,Sampson County WD I - Clinton,County
+03-82-070,Sampson County WD II - Dunn,County
+03-83-010,Laurinburg,Municipality
+03-83-015,Gibson (Scotland Co - South WSD),Municipality
+03-83-020,Wagram,Municipality
+03-83-107,Laurinburg-Maxton Airport,Other
+03-92-010,Raleigh,Municipality
+03-92-020,Cary,Municipality
+03-92-045,Apex,Municipality
+03-92-050,Holly Springs,Municipality
+03-92-373,Bayleaf Master,Business
+04-07-010,Washington,Municipality
+04-07-015,Belhaven,Municipality
+04-07-020,Aurora,Municipality
+04-07-025,Chocowinity,Municipality
+04-07-030,Bath,Municipality
+04-07-035,Beaufort Co (Northside),County
+04-07-040,Beaufort Co (Southside),County
+04-08-010,Windsor,Municipality
+04-08-015,Aulander,Municipality
+04-08-085,Bertie County RWS,County
+04-10-010,Southport,Municipality
+04-10-025,Shallotte,Municipality
+04-10-035,Ocean Isle Beach,Municipality
+04-10-045,Brunswick County,County
+04-10-060,Holden Beach,Municipality
+04-10-065,Navassa,Municipality
+04-10-070,Brunswick Regional WSD,District
+04-10-130,Village Bald Head Island Utilities,Municipality
+04-15-010,South Mills,Non-Profit
+04-15-015,South Camden Water & Sewer District,County
+04-16-010,Beaufort,Municipality
+04-16-015,Morehead City,Municipality
+04-16-020,Newport,Municipality
+04-16-025,Harkers Island WSD,District
+04-16-028,Bogue Banks Water Corp,Non-Profit
+04-16-031,Pine Knoll Shores,Municipality
+04-16-035,Atlantic Beach,Municipality
+04-16-040,West Carteret Water Corporation,Non-Profit
+04-16-197,North River/ Mill Creek Water System,County
+04-16-198,Merrimon,County
+04-21-010,Edenton,Municipality
+04-21-015,Chowan County,County
+04-24-010,Whiteville,Municipality
+04-24-015,Tabor City,Municipality
+04-24-020,Chadbourn,Municipality
+04-24-030,Fair Bluff,Municipality
+04-24-035,Riegelwood SD,Non-Profit
+04-24-040,Brunswick,Municipality
+04-24-045,Lake Waccamaw,Municipality
+04-24-050,Bolton,Municipality
+04-24-055,Cerro Gordo,Municipality
+04-24-060,Columbus Co WSD I,County
+04-24-075,Boardman,Municipality
+04-25-010,New Bern,Municipality
+04-25-015,Havelock,Municipality
+04-25-020,Vanceboro,Municipality
+04-25-025,Dover,Municipality
+04-25-040,First Craven Sanitary District,District
+04-25-045,Cove City,Municipality
+04-25-055,Craven County,County
+04-25-113,River Bend,Municipality
+04-25-132,Fairfield Harbour,Business
+04-27-010,Currituck Co,County
+04-28-010,Nags Head,Municipality
+04-28-015,Kill Devil Hills,Municipality
+04-28-020,Manteo,Municipality
+04-28-025,Dare Co Cape Hatteras,County
+04-28-030,Dare Co Regional,County
+04-28-035,Dare Co Rodanthe-Waves-Salvo,County
+04-31-010,Wallace,Municipality
+04-31-015,Warsaw,Municipality
+04-31-020,Beulaville,Municipality
+04-31-025,Rose Hill,Municipality
+04-31-030,Kenansville,Municipality
+04-31-035,Magnolia,Municipality
+04-31-040,Faison,Municipality
+04-31-044,Teachey,Municipality
+04-31-045,Calypso,Municipality
+04-31-050,Chinquapin Water Association,Non-Profit
+04-31-060,Greenevers,Municipality
+04-31-085,Duplin Co,County
+04-33-015,Pinetops,Municipality
+04-33-020,Macclesfield,Municipality
+04-33-040,Whitakers,Municipality
+04-33-045,Princeville,Municipality
+04-33-050,Edgecombe Co WSD,County
+04-37-020,Gates Co,County
+04-40-010,Snow Hill,Municipality
+04-40-015,Maury Sanitary Land District,District
+04-40-020,Hookerton,Municipality
+04-40-030,Walstonburg,Municipality
+04-40-105,South Greene WC,Non-Profit
+04-40-106,Greene County RWS,County
+04-42-010,Roanoke Rapids SD,District
+04-42-015,Scotland Neck,Municipality
+04-42-020,Weldon,Municipality
+04-42-025,Enfield Water System,Municipality
+04-42-030,Halifax,Municipality
+04-42-035,Hobgood,Municipality
+04-42-040,Halifax County,County
+04-46-010,Ahoskie,Municipality
+04-46-015,Murfreesboro,Municipality
+04-46-020,Winton,Municipality
+04-46-030,Cofield,Municipality
+04-46-040,Harrellsville,Municipality
+04-46-045,Hertford County,County
+04-46-106,Union Utilities Inc.,Non-Profit
+04-48-010,Hyde County,County
+04-48-020,Ocracoke Sanitary District,District
+04-52-010,Maysville,Municipality
+04-52-015,Pollocksville,Municipality
+04-52-020,Jones County Regional Water System,County
+04-54-010,Kinston,Municipality
+04-54-015,La Grange,Municipality
+04-54-020,Pink Hill,Municipality
+04-54-025,North Lenoir Water Corp.,Non-Profit
+04-54-030,Deep Run Water Corp,Non-Profit
+04-59-010,Williamston,Municipality
+04-59-015,Robersonville,Municipality
+04-59-025,Hamilton,Municipality
+04-59-030,Jamesville,Municipality
+04-59-113,Parmele,Municipality
+04-59-114,Everetts,Municipality
+04-64-010,Rocky Mount,Municipality
+04-64-025,Spring Hope,Municipality
+04-64-035,Bailey,Municipality
+04-64-040,Sharpsburg,Municipality
+04-64-050,Middlesex,Municipality
+04-64-060,Dortches,County
+04-65-010,Cape Fear Public Utility Authority - Wilmington,Authority
+04-65-015,Carolina Beach,Municipality
+04-65-020,Wrightsville Beach,Municipality
+04-65-025,Kure Beach,Municipality
+04-65-199,The Cape,Business
+04-66-010,Jackson,Municipality
+04-66-015,Severn,Municipality
+04-66-020,Rich Square,Municipality
+04-66-025,Conway,Municipality
+04-66-035,Seaboard,Municipality
+04-66-040,Woodland,Municipality
+04-66-045,Northampton Co - Progressive,County
+04-66-108,Northampton Co - Milwaukee,County
+04-66-110,Northampton Co - Lake Gaston,County
+04-66-113,Northampton Co - Gaston,County
+04-67-010,Jacksonville,Municipality
+04-67-035,ONWASA,Authority
+04-69-020,Oriental,Municipality
+04-69-025,Pamlico County Water System,County
+04-70-010,Elizabeth City,Municipality
+04-70-015,Pasquotank County,County
+04-71-010,Burgaw,Municipality
+04-71-015,Surf City,Municipality
+04-71-020,Topsail Beach,Municipality
+04-71-111,Belvedere,District
+04-72-010,Hertford,Municipality
+04-72-025,Perquimans County,County
+04-74-010,Greenville Utilities Commission,Municipality
+04-74-015,Eastern Pines Water Corporation,Non-Profit
+04-74-020,Farmville,Municipality
+04-74-025,Ayden,Municipality
+04-74-030,Bethel,Municipality
+04-74-035,Grifton,Municipality
+04-74-040,"Winterville, Town of",Municipality
+04-74-045,Bell Arthur WC,Non-Profit
+04-74-050,Fountain,Municipality
+04-74-055,Grimesland,Municipality
+04-74-060,Stokes Regional Water Corporation,Non-Profit
+04-89-010,Columbia,Municipality
+04-89-015,Tyrrell County Water Department,County
+04-94-010,Plymouth,Municipality
+04-94-020,Creswell,Municipality
+04-94-025,Washington County Water System,County
+04-96-010,Goldsboro,Municipality
+04-96-015,Mount Olive,Municipality
+04-96-025,Fremont,Municipality
+04-96-030,Pikeville,Municipality
+04-96-045,Southern Wayne SD,District
+04-96-060,Fork Township SD,District
+04-96-065,Wayne Water Districts,District
+04-96-155,Walnut Creek,Municipality
+04-98-010,Wilson,Municipality
+04-98-020,Elm City,Municipality
+04-98-025,Stantonsburg,Municipality
+04-98-030,Lucama,Municipality
+04-98-035,Black Creek,Municipality
+04-98-040,Saratoga,Municipality
+04-98-045,Sims,Municipality
+10-14-001,Caldwell Co (Addison Lane),County
+10-56-032,McDowell County,County
+10-75-010,Polk County Water System,County
+20-18-004,Southeastern Catawba Co WD,County
+20-84-006,Big Lick Road,Municipality
+20-84-008,Polk Ford/Renee Ford,Municipality
+30-01-005,Swepsonville,Municipality
+30-76-010,Piedmont Triad Regional Water Authority,Authority
+30-86-057,Tobe Hudson / IWSD,County
+30-86-058,Gentry Road,County
+30-99-029,Yadkin County - Hwy 21,County
+40-19-010,Chatham County Asbury Water System,County
+40-39-004,Wilton Water and Sewer,Authority
+40-51-007,Smithfield South,Municipality
+40-51-008,Micro (County Line),County
+40-64-005,Central Nash WSD,County
+40-64-010,Nash County Area II,County
+40-66-001,Northampton Co - North Gaston,County
+40-66-002,Northampton Co - West Jackson,County
+40-91-008,Vance County Water District,County
+40-93-005,Warren County - Northampton,County
+40-98-012,Wilson County SWWD,District
+40-98-014,Wilson County SEWD,District
+50-09-012,Bladen Bluffs,Authority
+50-09-013,LCFWSA - Kings Bluff,Authority
+50-26-019,"Old North Utility Services, Inc.",Business
+50-26-027,Eastover Sanitary District,District
+50-63-011,East Moore Water District,District
+50-63-021,Moore County Public Utilities-High Falls,County
+60-27-001,Southern Outer Banks Water,County
+60-28-002,Stumpy Point WSD,County
+60-54-001,Neuse Regional Water and Sewer Authority,Authority
+60-59-003,Martin County WD I,District
+60-59-009,Martin County WD II,District
+60-59-015,Martin County Regional WASA,Authority
+60-70-000,Pasquotank County - RO,County
+60-96-001,Wayne Water District Purchase,District
+70-10-045,Northwest,Municipality
+70-10-058,Leland,Municipality
+70-24-007,Columbus Co WSD II,County
+70-24-012,Columbus Co WSD III,County
+70-24-013,Columbus Co WSD IV,County
+70-24-024,Sandyfield,Municipality
+70-71-011,Pender County Utilities,District

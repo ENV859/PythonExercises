@@ -1,0 +1,13 @@
+SiteID,Year,Registrant,Facility,County,Subbasin,Month,# of DaysUsed,Average DailyWithdrawal (MGD),Maximum DayWithdrawal (MGD),# of DaysDischarged,Average DailyDischarge (MGD),Maximum DayDischarge (MGD),# of DaysTransferred,Average DailyTransfer (MGD),Maximum DayTransfer (MGD)
+0831-0001,2017,3M Company,3M Company,Chatham,Deep River (02-2),Jan,31,0.135,0.135,31,0.135,0.135,0,,
+0831-0001,2017,3M Company,3M Company,Chatham,Deep River (02-2),Feb,28,0.135,0.135,28,0.135,0.135,0,,
+0831-0001,2017,3M Company,3M Company,Chatham,Deep River (02-2),Mar,31,0.151,0.151,31,0.151,0.151,0,,
+0831-0001,2017,3M Company,3M Company,Chatham,Deep River (02-2),Apr,30,0.374,0.374,30,0.374,0.374,0,,
+0831-0001,2017,3M Company,3M Company,Chatham,Deep River (02-2),May,31,0.374,0.374,31,0.374,0.374,0,,
+0831-0001,2017,3M Company,3M Company,Chatham,Deep River (02-2),Jun,30,0.374,0.374,30,0.374,0.374,0,,
+0831-0001,2017,3M Company,3M Company,Chatham,Deep River (02-2),Jul,31,0.103,0.103,31,0.103,0.103,0,,
+0831-0001,2017,3M Company,3M Company,Chatham,Deep River (02-2),Aug,31,0.103,0.103,31,0.103,0.103,0,,
+0831-0001,2017,3M Company,3M Company,Chatham,Deep River (02-2),Sep,30,0.116,0.116,30,0.116,0.116,0,,
+0831-0001,2017,3M Company,3M Company,Chatham,Deep River (02-2),Oct,31,0.199,0.199,31,0.199,0.199,0,,
+0831-0001,2017,3M Company,3M Company,Chatham,Deep River (02-2),Nov,30,0.199,0.199,30,0.199,0.199,0,,
+0831-0001,2017,3M Company,3M Company,Chatham,Deep River (02-2),Dec,31,0.199,0.199,31,0.199,0.199,0,,
