@@ -1,5 +1,5 @@
 # Python Exercises
-Python Exercises for ENV 859 - Advanced GIS 
+Python Exercises for ENV 859 - Geospatial Data Analytics 
 
 Instructor: John Fay (john.fay@duke.edu)
 
