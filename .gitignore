@@ -1,3 +1,4 @@
 #Ignore Python notebook checkpoints
 .ipynb_checkpoints/*
 *.lnk
+/AdditionalExercises/.ipynb_checkpoints
